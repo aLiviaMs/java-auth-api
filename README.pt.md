@@ -4,8 +4,8 @@ Este projeto implementa um sistema de autenticação básico utilizando Java e S
 
 ## Tecnologias Utilizadas
 
-- Java 11
-- Spring Boot 2.x
+- Java 21
+- Spring Boot
 - IntelliJ IDEA
 - Maven
 - JPA (Hibernate)
